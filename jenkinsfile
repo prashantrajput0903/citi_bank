@@ -16,6 +16,13 @@ stages {
      }
      stage -4 
      // logic
+     
+
+     stage - 5
+     // logic 
+
+     stage -6 
+     //logic
 
 
 }
